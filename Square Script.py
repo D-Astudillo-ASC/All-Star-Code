@@ -1,0 +1,11 @@
+from Myro import *
+init("sim")
+sideLength = int(input("How long should the sides of the square be?"))
+forward(1,sideLength)
+turnBy(-90)
+forward(1,sideLength)
+turnBy(-90)
+forward(1,sideLength)
+turnBy(-90)
+forward(1,sideLength)
+stop()

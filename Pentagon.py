@@ -1,0 +1,11 @@
+from Myro import *
+init()
+forward(2,2)
+turnBy(-60)
+forward(2,2)
+turnBy(-60)
+forward(2,2)
+turnBy(-60)
+forward(2,2)
+turnBy(-90)
+forward(4,3.5)
