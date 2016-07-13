@@ -60,4 +60,5 @@ def Thriller():
       i=i+1
       Spin()
       Moonwalk()
+
 Thriller()
