@@ -1,5 +1,5 @@
 from Myro import *
-init()
+init("sim")
 def Spin(): 
    i = 0
    while i < 100:
