@@ -125,4 +125,4 @@ def findBlob(color):
     wait(1)
     backward(1,3)
 findBlob(1) # This would be how to find Red, changing the parameter changes the color of the blob that the robot would look for. 
-
+findBlob(2)
