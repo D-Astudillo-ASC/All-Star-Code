@@ -1,7 +1,7 @@
 from Myro import * 
 Batman = makePicture("Batman.JPG") # Takes JPG image from Calico Folder and saves it as the variable "Batman".
 show(Batman) # Shows image
-Pixels=getPixels(Batman) # Returns a list of individual pixels from the image.
+Pixels=getPixels(Batman) # Returns a list of individual pixels from the image
 # Variables that will be responsible for returning colors to make pixels from.
 Obama_DarkBlue = makeColor(0,51,76)
 Obama_Red = makeColor(217, 26, 33)
